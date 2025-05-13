@@ -3,16 +3,12 @@
 
 Please find the description of the task below:
 
-NOTE: You will have to screen record your entire screen while coding and upload the drive link in a field given below.
-
 Define the CPU Architecture:
    •    Choose an 19-bit architecture ( Instruction size will be 19-bit ).
    •    Define a specialized instruction set tailored to a specific application or set of applications (e.g., signal processing, cryptography).
    •    Create a detailed architectural specification, including pipeline stages, register file, ALU, and memory interfaces. 
 
 You can use Verilog/VHDL/systemverilog. You can add some extra instructions as well, based on your convenience.
-
-You are supposed to submit the task within 15 days.
 
 Arithmetic Instructions    
 1.    ADD r1, r2, r3
@@ -83,13 +79,3 @@ Custom Instructions (for specialized applications)
 3.    DEC r1, r2
    •    Description: Decrypt the data starting at address r2 using a predefined decryption algorithm, and store the result in the location pointed to by r1.
    •    Operation: decrypted_data = Decrypt(memory[r2]); memory[r1] = decrypted_data
-
-PLEASE NOTE: You have to submit the form only once you finish this task, and please do mention only the link of your github repository. Do not submit the form right now mentioning anything like “I will submit the task within 15 days”, “Ok”, “Yes”, “I will do that”, etc. etc. Your response will be automatically terminated and you wont be able to submit the github repo link again.
-
-Do not use AI tool to complete the code submission, we have a special AI detection tool which reviews the code for 10+ different AI models and we will not revert back if your code has more than 20% of AI generated content.
-
-The duration of the task is 15 days. Make a private github repository, and add this username in collaborator, "recruit-vicharak"
-
-If you have any queries, please feel free to contact us on join-the-team@vicharak.in
-
-Once you complete the task, share the link of your github repository in the response field below:
