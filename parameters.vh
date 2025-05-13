@@ -16,5 +16,5 @@
 `define LD    = 5'b01111
 `define ST    = 5'b10000
 `define FFT   = 5'b10001
-`define ENC   = 5'b10010
-`define DEC2  = 5'b10011
+`define ENCO   = 5'b10010
+`define DECO  = 5'b10011
